@@ -1,1 +1,1 @@
-Numeric simulations in main `Figure 4`
+Numeric simulations of `Figure 4`.
