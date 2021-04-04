@@ -1,4 +1,4 @@
-# PNAS Neuron Simulations
+# Hamada et al. PNAS (2016) neuron models
 
 Simulation models of [Hamada et al. PNAS (2016)](https://www.pnas.org/content/113/51/14841.short)
 
