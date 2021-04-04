@@ -1,1 +1,1 @@
-Numeric simulations of `Figure 4 - Numerical simulations predict that dendritic scaling with AIS distance normalizes the somatic AP`.
+Numeric simulations of `Figure 4 - Numerical simulations predict that dendritic scaling with AIS distance normalizes the somatic AP` & `Figure S5 - Role of voltage-gated channels in a biophysical simple model of AP initiation.`
